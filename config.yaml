@@ -32,9 +32,9 @@ params:
     # Button text
     buttontext: Join the beta!
     # Where the main hero button links to
-    buttonlink: "#section2"
+    buttonlink: "#section5"
     # Hero image (from static/images/___)
-    image: illustrations/worker.svg
+    image: illustrations/illustration.png
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
     # - systek
@@ -152,7 +152,7 @@ params:
     #   quote: We believe in our employees. Since collaborating with yaaisu, they feel less stressed, less anxious and more motivated to do the job!
     #   job: HR Manager, springrly
     #   img: 3
-  section5: false
+  section5: true
   # footer:
   #   # Logo (from /images/logos/___)
   #   logo: fresh-white-alt.svg
