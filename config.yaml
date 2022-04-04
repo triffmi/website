@@ -1,6 +1,6 @@
-baseURL: https://yaaisu.netlify.app
+baseURL: https://triffmi.netlify.app
 languageCode: en-us
-title: Amuon
+title: Triffmi
 theme: hugo-fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
@@ -16,19 +16,19 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
-  description: "Amuon is a app for meeting new people and dating for the University of St. Gallen"
+  description: "triffmi is a platform for making things happen."
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/web_logo.svg
+    image: logos/triffmi.svg
     link: /
   font:
     name: "Open Sans"
     sizes: [400,600]
   hero:
     # Main hero title
-    title: From intern to in-charge
+    title: Meet people for activites & exchange study resources
     # Hero subtitle (optional)
-    subtitle: Connect with other HSGler's for business or romance
+    subtitle: Become part of triffmi and leverage your network
     # Button text
     buttontext: Join the beta!
     # Where the main hero button links to
@@ -117,19 +117,19 @@ params:
   #     url: /
   #     buttonText: Get started
   section2:
-    title: Meet people you can trust
-    subtitle: Amuon is an app for networking and dating for the University of St. Gallen
+    title: triffmi's services
+    subtitle: triffmi is an expanding platform, check out what we offer!
     features: 
+    - title: Goodbye to awkward silence
+      text: Plan activities and meet new co-students simultaneously
+      icon: work.png
+    - title: Course summaries exchange
+      text: Exam hustle? Get verified course summaries or sell your own.
+      icon: books.png
     - title: Campus exclusive
       text: Amuon is only available from current members of the University of St. Gallen. Meet people you can trust. **\#EHE**
       # Icon (from /images/illustrations/icons/___.svg)
       icon: uni.png
-    - title: Networking
-      text: You're happily engaged? Use Amuon to network with peers and build meaningful connections.
-      icon: work.png
-    - title: Dating
-      text: Enough business for today? Switch to Amuon's dating side and flirt without creeps and fake profiles. **\#No NV**
-      icon: heart.png
   # section3:
   #   title: Metacognitivity
   #   subtitle: To rule them all
