@@ -123,9 +123,6 @@ params:
     - title: Goodbye to awkward silence
       text: Plan activities and meet new co-students simultaneously
       icon: work.png
-    - title: Course summaries exchange
-      text: Exam hustle? Get verified course summaries or sell your own.
-      icon: books.png
     - title: Campus exclusive
       text: Amuon is only available from current members of the University of St. Gallen. Meet people you can trust. **\#EHE**
       # Icon (from /images/illustrations/icons/___.svg)
