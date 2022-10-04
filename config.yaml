@@ -117,8 +117,8 @@ params:
   #     url: /
   #     buttonText: Get started
   section2:
-    title: triffmi's services
-    subtitle: triffmi is an expanding platform, check out what we offer!
+    title: Features
+    subtitle: triffmi is currently under development, stay tuned for updates!
     features: 
     - title: Goodbye to awkward silence
       text: Plan activities and meet new co-students simultaneously
@@ -138,11 +138,11 @@ params:
     subtitle:
     clients:
     - name: Jenestin Anthonipillai
-      bio: I always loved bringing people toghether. triffmi extends my passion via a digital channel.
-      job: Development, Marketing
+      bio: With triffmi, I believe that students can build a more diverse, larger and more broadly networked circle of friends
+      job: Development, Analysis
       img: jenestin
     - name: Daniel Bauer
-      bio: Software engineering meeting social networking. That's where my interests lie!
+      bio: Software engineering meets social networking. That's where my interests lie!
       job: Development, Infrastructure
       img: daniel
     - name: Marc Solèr
