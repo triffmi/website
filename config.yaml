@@ -138,16 +138,16 @@ params:
     subtitle:
     clients:
     - name: Jenestin Anthonipillai
-      bio: With triffmi, I believe that students can build a more diverse, larger and more broadly networked circle of friends
-      job: Development, Analysis
+      bio: With triffmi, I want to strengthen diversity and help students build a larger and more broadly networked circle of friends.
+      job: Developer, Analyst
       img: jenestin
     - name: Daniel Bauer
-      bio: Software engineering meets social networking. That's where my interests lie!
-      job: Development, Infrastructure
+      bio: I love applying my software engineering skills to forge new connections between people and improve social interactions.
+      job: Developer, Infrastructure and Security Engineer
       img: daniel
     - name: Marc Solèr
-      bio: Social interactions beyond individual groups foster new ideas. That's why triffmi is fun!
-      job: Development, Infrastructure
+      bio: Social interactions beyond individual closed groups foster new ideas, much as axons do in a brain. That's why triffmi is fun!
+      job: Developer, Infrastructure Engineer
       img: marc
   section5: true
   # footer:
