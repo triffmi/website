@@ -6914,6 +6914,57 @@ Testimonials Styles
       top: 50%; }
 
 /* ==========================================================================
+Team Styles
+========================================================================== */
+.team {
+  position: relative;
+  overflow: hidden;
+  margin: 10px auto;
+  min-width: 220px;
+  max-width: 350px;
+  width: 100%;
+  color: #333;
+  box-shadow: none !important; }
+  .team * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box; }
+  .team img {
+    max-width: 100%;
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+    margin-right: 5px; }
+  .team .block {
+    margin: 0;
+    display: block;
+    border-radius: 8px;
+    background-color: #fcfcfc;
+    padding: 30px 30px 30px 30px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.6em;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+    text-align: center; }
+    .team .block h5 {
+      text-transform: capitalize;
+      bottom: 60%;
+      margin: 0;
+      font-weight: 600;
+      font-size: 1.2rem; }
+    .team .block h6 {
+      bottom: 60%;
+      margin: 0;
+      font-size: 1rem; }
+    .team .block span {
+      font-size: 0.8em;
+      text-align: justify; }
+  .team .bio {
+    padding: 10px 0 0 0;
+    text-align: left;
+    font-size: 0.8em;
+    line-height: 1.6    em; }
+
+/* ==========================================================================
 Responsive Styles
 ========================================================================== */
 @media (max-width: 767px) {

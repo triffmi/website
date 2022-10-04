@@ -1,6 +1,6 @@
 baseURL: https://triffmi.com
 languageCode: en-us
-title: Triffmi
+title: triffmi
 theme: hugo-fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
@@ -138,17 +138,17 @@ params:
     subtitle:
     clients:
     - name: Jenestin Anthonipillai
-      bio: Hellu
-      job: 
-      img: 1
+      bio: I always loved bringing people toghether. triffmi extends my passion via a digital channel.
+      job: Development, Marketing
+      img: jenestin
     - name: Daniel Bauer
-      bio: With yaaisu, we disrupevolutionized the digital asset assurance market by giving us a lead against our competition. Without Quantum Neural AI, our risc-metrics system became 30% more accurate.
-      job: 
-      img: 2
+      bio: Software engineering meeting social networking. That's where my interests lie!
+      job: Development, Infrastructure
+      img: daniel
     - name: Marc Solèr
-      bio: We believe in our employees. Since collaborating with yaaisu, they feel less stressed, less anxious and more motivated to do the job!
-      job:
-      img: 3
+      bio: Social interactions beyond individual groups foster new ideas. That's why triffmi is fun!
+      job: Development, Infrastructure
+      img: marc
   section5: true
   # footer:
   #   # Logo (from /images/logos/___)
