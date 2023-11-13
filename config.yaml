@@ -26,7 +26,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: triffmi is a marketplace for activities @ HSG
+    title: triffmi is a marketplace for activities for Swiss Universities
     # Hero subtitle (optional)
     subtitle: Become part of triffmi and extend your network in a fun way
     # Button text
@@ -124,7 +124,7 @@ params:
       text: Plan activities and meet new co-students simultaneously
       icon: connection.png
     - title: Campus exclusive
-      text: triffmi is only available from current members of the University of St. Gallen. Meet people you can trust. **\#EHE**
+      text: triffmi is only available for active students of Swiss Universities. Meet people you can trust.
       # Icon (from /images/illustrations/icons/___.svg)
       icon: group.png
   section3: false
@@ -133,22 +133,6 @@ params:
 #    image: illustrations/mockups/app-mockup.png
 #    buttonText: Get started
 #    buttonLink: "#"
-  team:
-    title: Team
-    subtitle:
-    clients:
-    - name: Jenestin Anthonipillai
-      bio: With triffmi, I want to strengthen diversity and help students build a larger and more broadly networked circle of friends.
-      job: Developer, Analyst
-      img: jenestin
-    - name: Daniel Bauer
-      bio: I love applying my software engineering skills to forge new connections between people and improve social interactions.
-      job: Developer, Infrastructure and Security Engineer
-      img: daniel
-    - name: Marc Solèr
-      bio: Social interactions beyond individual closed groups foster new ideas, much as axons do in a brain. That's why triffmi is fun!
-      job: Developer, Infrastructure Engineer
-      img: marc
   section5: true
   # footer:
   #   # Logo (from /images/logos/___)
